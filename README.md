@@ -4,7 +4,7 @@ A curated, searchable reference for biomechanics research resources and practica
 
 ## Browse
 
-Content is organized into clear topic area folders at the top level. Each topic folder has a `README.md` that indexes and links to the individual pages in that area. Start with the relevant topic index to find the tool, page, or information needed.
+Browse a topic index to find relevant tools, pages, and information.
 
 - [Methods](methods/README.md): method guidance by research topic
 - [Resources](resources/README.md): tools, packages, datasets, and repositories
