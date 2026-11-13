@@ -15,6 +15,9 @@ Browse a topic index to find relevant tools, pages, and information.
 - [Images and icons](images-and-icons/README.md)
 - [Statistics](statistics/README.md)
 - [Workflows](workflows/README.md): task-focused procedures
-- [Additional repositories and resources](resources/README.md)
 
 Each tool, package, dataset, or repository has its own page. Pages briefly explain what the resource does, give the specific information needed to use or assess it, and link to further details.
+
+## Contribute
+
+Use the [template](templates/template.md) when adding a resource page.

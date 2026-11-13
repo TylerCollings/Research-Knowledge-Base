@@ -10,5 +10,6 @@
 - Separate evidence-backed method guidance from group-specific conventions.
 - Update a page when its source or recommended use changes.
 - Add a separate page for each tool, package, dataset, repository, or method.
+- Use the [template](templates/template.md) for resource pages. Make its **How to Use** steps specific to the resource itself, and support operational instructions with authoritative sources.
 - Keep entries concise: explain what the item does, record only information needed to use or assess it, and link to authoritative details.
 - Before completing a change, check that links work, claims are supported by cited sources, and group conventions are clearly distinguished from general method guidance.
